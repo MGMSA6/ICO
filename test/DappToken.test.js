@@ -1,5 +1,3 @@
-const { assert } = require('chai');
-
 const BigNumber = web3.BigNumber;
 
 const DappToken = artifacts.require('DappToken');
